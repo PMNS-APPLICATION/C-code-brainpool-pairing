@@ -19,4 +19,6 @@ Each directory contains two main files:
     
     Execution command:
     > ./cmain 
-    > 
+    >
+
+    Note that you need to disable the turbo boost to get accurate timing results.
