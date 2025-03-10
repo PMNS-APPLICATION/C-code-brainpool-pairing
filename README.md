@@ -11,8 +11,7 @@ Each directory contains two main files:
     
     Execution command:
     > ./main 
-    >
-    <br>
+    
   - **main__nb_cycles.c**: for timing comparisons (in number of clock cycles).
     <br>
     Compilation command:
